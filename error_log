@@ -1,0 +1,7 @@
+[18-Nov-2020 13:10:51 UTC] PHP Fatal error:  Uncaught ReflectionException: Class Illuminate\Contracts\Https\Kernel does not exist in /home/regularn/public_html/truewallet.co.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/regularn/public_html/truewallet.co.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('Illuminate\\Cont...')
+#1 /home/regularn/public_html/truewallet.co.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('Illuminate\\Cont...')
+#2 /home/regularn/public_html/truewallet.co.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#3 /home/regularn/public_html/truewallet.co.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(637): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#4 /home/regularn/public_html/truewallet.co.in/vendor/laravel/framework/src/Il in /home/regularn/public_html/truewallet.co.in/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811

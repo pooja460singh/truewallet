@@ -1,0 +1,92 @@
+/*------------------------------------------------------------------
+[Master Stylesheet]
+
+Project:	Aashi Multipurpose Responsive HTML Template
+Version:	1.0.0
+Assigned to:	Themeforest
+Primary use:	Business, Marketing, Blogs, Firm   
+-------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------
+[Table of contents]
+
+
+1. Body
+2. Header / #main-header
+3. Navbar / #main-menu
+4. Main Slider / .wa_main_bn_wrap
+5. How we work / .how_we_work
+6. Testimonial / .wa_multi_layout
+7. Team Section / .wa-team-main
+8. News Section/ .news_main
+9. FunFacts / #fun-factor
+10. Home Blog/ .home_blog_main
+11. Partener sections/ .wa-partners
+12. Page Header / .page-header
+13. About page / .about-page
+14. Services Sections/ .services
+15. Coupon Section / .wa-main-coupon 
+16. Blog Item / .wa-theme-design-block
+17. Common Other pages / .page_single 
+18. Error Page / .error-page
+19. Sidebar / .sidebar
+20. Comment / .comments-area
+21. Comment Form / .contact-form 
+22. Shop- Page/ .shop-page 
+23. Gallery Filter / .filter-1
+24. FAQs Section / #faqs-accordion
+25. Login and Registration Tabs  Section/ .wa-info-tabs	
+26. Social Section / .social
+27. Footer / #main-footer
+
+-------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------
+[Color codes]
+
+Background:	#ffffff/#f57f25 (white or bright orange)
+Content:	#777 (light black)
+Header h1:	#000/#333 (black and drak gray touch)
+Header h2:	#000/#333 (black and drak gray touch)
+Header h3:	#000/#333 (black and drak gray touch)
+Header h4:	#000/#333 (black and drak gray touch)
+Header h5:	#000/#333 (black and drak gray touch)
+Header h6:	#000/#333 (black and drak gray touch)
+Footer:		#1a1a1a (dark gray)
+
+
+a (standard):	#777/#333/#f57f25 (Similar grey and black or light black or bright orange)
+a (visited):	#777/#333/#f57f25 (Similar grey and black or light black or bright orange)
+a (hover):		#f57f25 (bright orange)
+a (active):		#f57f25 (bright orange)
+
+Hover :		#f57f25 (bright orange)
+--------------------------------------------*/
+
+/*------------------------------------------------------------------
+[Typography]
+
+Body copy:		16px/1.8em 'Lato', sans-serif;
+Headers:		36px/1.6em 'Raleway', sans-serif;
+Input, textarea:	16px 'Lato', sans-serif;
+Sidebar heading:	24px 'Raleway', sans-serif
+Other typo: 'Mr De Haviland', cursive;
+
+-------------------------------------------------------------------*/
+
+/* Bootstrap core CSS*/
+@import url("assets/css/bootstrap.min.css");
+
+
+/*Plugins CSS */	
+@import url("assets/plugins/font-awesome/css/font-awesome.min.css");
+@import url("assets/plugins/menu/css/hover-dropdown-menu.css");
+@import url("assets/plugins/owl-carousel/css/owl.carousel.css"); 
+@import url("assets/plugins/fancymedia/css/jquery.fancybox.css");
+@import url("assets/css/jquery-ui.css");
+
+/*Defaults CSS SETTINGS */	
+@import url("assets/css/style.css");
+
+/*Template Media Query CSS */
+@import url("assets/css/responsive.css");

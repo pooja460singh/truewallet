@@ -1,0 +1,155 @@
+/*
+	=========================
+		Theme Background Color
+	=========================
+*/
+.wa-theme-bg,
+.wa-button:hover,
+.wa-heading-style1 h2:before,
+.wa-box-style1:hover,
+.dark-button,
+.owl-carousel-style1 .owl-buttons div:hover,
+.light-icon li a:hover,
+.dark-icon li a:hover,
+.wa-theme-design-block:hover .dark-icon li a,
+.client-detail-style1,
+.special-style-dark-theme:before,
+.theme-metabox .bottom-box,
+.light-metabox,
+.dark-theme-footer .footer-bg:before,
+.dark-theme-footer .upper-footer,
+.leave-reply a:hover,
+.tag-list a:hover,
+.owl-theme .owl-controls .owl-page.active span,
+.ui-state-active,
+.ui-widget-content .ui-state-active,
+.ui-widget-header .ui-state-active,
+a.ui-button:active,
+.ui-button:active,
+.ui-button.ui-state-active:hover,
+.wa-tabs .tab-btns .tab-btn.active-btn,
+.login-page-theme:before,
+.figure-caption .wa-icons a,
+input[type=radio]:checked ~ .check:before,
+.cssload-loading i,
+.wa-button.active {
+    background: linear-gradient(45deg,#ef8915 0,#db642c);
+}
+
+/*
+	=========================
+		Theme Typo Color
+	=========================
+*/
+.wa-box-style1 i,
+.wa-box-style2 i,
+.wa-theme-color,
+.wa-box-style2:hover h3,
+#main-footer a:hover,
+.block-caption h4 a:hover,
+.wa-theme-design-block:hover h4 a,
+.wa-theme-design-block:hover h3 a,
+.meta-block a:hover,
+.wa-theme-design-block:hover .light-icon li a,
+.count-number i,
+.testimonial-block-style1 blockquote:before,
+.theme-metabox .top-box,
+.light-metabox .top-box,
+.theme-quote:before,
+.latest-twitts a i.fa,
+.wa-tabs .tab-btns .tab-btn:hover,
+span.price,
+.ratings li a,
+.reviews-container .rating .fa,
+.widget .ratings li a,
+.breadcrumb > li.active,
+.sidebar-tab.wa-tabs .tab-btns .tab-btn.active-btn,
+input[type=checkbox]:checked ~ .box-check,
+.services h1 a:hover,
+.services h2 a:hover,
+.services h3 a:hover,
+.services h4 a:hover,
+.services h5 a:hover,
+.services h6 a:hover,
+.sidebar h1 a:hover,
+.sidebar h2 a:hover,
+.sidebar h3 a:hover,
+.sidebar h4 a:hover,
+.sidebar h5 a:hover,
+.sidebar h6 a:hover,
+.sidebar ul li a:hover,
+.latest-twitts li a:hover span,
+.widget article a:hover,
+.wa-box-style2:hover h4,
+.wa-theme-color.no-hover:hover,
+.wa-theme-color.no-hover:visited,
+.page_single h1 a:hover,
+.page_single h2 a:hover,
+.page_single h3 a:hover,
+.page_single h4 a:hover,
+.page_single h5 a:hover,
+.page_single h6 a:hover {
+    color: #ef8a14;
+}
+.wa-box-style1:hover i {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>li>a:focus,
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-nav>.open>a,
+.navbar-default .navbar-nav>.open>a:focus,
+.navbar-default .navbar-nav>.open>a:hover,
+.dropdown-menu>li>a:focus,
+.dropdown-menu>li>a:hover{
+	color: #fff;
+    background: linear-gradient(45deg,#ef8915 0,#db642c);
+}
+
+ .sidebar-tab.wa-tabs .tab-btns .tab-btn{
+ 	padding-left: 10px;color: #ef8a14
+ }
+  .sidebar-tab.wa-tabs .tab-btns .tab-btn.active-btn{
+  	padding-left: 10px; color: #fff;
+  }
+/*
+	=========================
+		Theme Border Color
+	=========================
+*/
+.dropdown-menu,
+.wa-box-style1:hover,
+.wa-box-style2:hover,
+.wa-partner-carousel .owl-item div:hover,
+.light-icon li a:hover,
+.dark-icon li a:hover,
+.wa-theme-design-block:hover .light-icon li a,
+.wa-theme-design-block:hover .dark-icon li a,
+.ui-state-active,
+.ui-widget-content .ui-state-active,
+.ui-widget-header .ui-state-active,
+a.ui-button:active,
+.ui-button:active,
+.ui-button.ui-state-active:hover,
+.wa-tabs .tab-btns .tab-btn:hover,
+.sidebar-tab.wa-tabs .tab-btns .tab-btn.active-btn,
+input[type=radio]:checked ~ .check,
+.check,
+.wa_main_bn_wrap .owl-theme .owl-controls .owl-page span,
+.box-check,
+.wa-partner-carousel .owl-item span:hover img{
+    border-color: #ef8a14;
+}
+.block-sticker-tag {
+    border-top-color: #ef8a14;
+}
+.light-icon li a:hover,
+.dark-icon li a:hover {
+    color: #fff !important;
+}
+.grey-bg {
+    background-color: #f2f5f6 !important;
+}
